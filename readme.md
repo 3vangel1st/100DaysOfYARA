@@ -30,6 +30,7 @@ Blogs & Links:
 
 * @Secman_pl : Hunting for OpenSSL: https://github.com/secman-pl/yaras/blob/main/hunt_PE_openssl_statically_compiled.yar
 
+* @cocaman: Yara Scan Service - free Retrohunt-like service on 100GB+ of samples https://riskmitigation.ch/yara-scan/
 
 Tools:
 * Binlex: https://github.com/c3rb3ru5d3d53c/binlex
