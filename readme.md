@@ -37,3 +37,6 @@ Tools:
 
 * @cocaman: Yara Scan Service - free Retrohunt-like service on 100GB+ of samples https://riskmitigation.ch/yara-scan/
 
+* Schrodyn: Steezy: a python tool for ghetto generation of Yara rules from the VA of a function in a compiled executable.
+            https://github.com/schrodyn/steezy
+
