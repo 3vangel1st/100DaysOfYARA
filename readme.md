@@ -30,7 +30,7 @@ Blogs & Links:
 
 * @Secman_pl : Hunting for OpenSSL: https://github.com/secman-pl/yaras/blob/main/hunt_PE_openssl_statically_compiled.yar
 
-* Scrodyn: Hunting Linux kernel module hunting: https://gist.github.com/schrodyn/8b8b78da076b04b86767f311cd149384
+* Scrodyn: Hunting Linux kernel module: https://gist.github.com/schrodyn/8b8b78da076b04b86767f311cd149384
 
 Tools:
 * Binlex: https://github.com/c3rb3ru5d3d53c/binlex by @c3rb3ru5d3d53c
