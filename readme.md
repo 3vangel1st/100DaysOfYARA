@@ -40,3 +40,4 @@ Tools:
 * Schrodyn: Steezy: a python tool for ghetto generation of Yara rules from the VA of a function in a compiled executable.
             https://github.com/schrodyn/steezy
 
+* Steezy: YARA Rule generation tool: https://github.com/schrodyn/steezy
